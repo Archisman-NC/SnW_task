@@ -1,4 +1,2 @@
 # SnW_task
 
-classwork
-
