@@ -1,2 +1,3 @@
 # SnW_task
-1st sem
+2nd sem
+
